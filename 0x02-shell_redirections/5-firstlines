@@ -1,2 +1,3 @@
+vim 5-firstline
 #!/bin/bash
 head-n10 etc/passwd
